@@ -1,0 +1,9 @@
+{
+  "name": "use-embed",
+  "description": "Collection of hooks for embedding social media content.",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "playground"
+  ]
+}
